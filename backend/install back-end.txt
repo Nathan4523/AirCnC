@@ -1,0 +1,13 @@
+=======back-end=======
+
+-> yarn init -y
+
+-> yarn add express
+
+->yarn add nodemon 
+
+Em seu package, adicionar scripts e dentro um objeto chamado dev com valor node src/server.js
+
+->yarn add mongoose
+
+->yarn add multer
